@@ -1,0 +1,6 @@
+C:\work\email via gmail\emailGamilEnterprise\emailGamilEnterprise\bin\Debug\emailGamilEnterprise.exe.config
+C:\work\email via gmail\emailGamilEnterprise\emailGamilEnterprise\obj\Debug\emailGamilEnterprise.csprojResolveAssemblyReference.cache
+C:\work\email via gmail\emailGamilEnterprise\emailGamilEnterprise\bin\Debug\emailGamilEnterprise.exe
+C:\work\email via gmail\emailGamilEnterprise\emailGamilEnterprise\bin\Debug\emailGamilEnterprise.pdb
+C:\work\email via gmail\emailGamilEnterprise\emailGamilEnterprise\obj\Debug\emailGamilEnterprise.exe
+C:\work\email via gmail\emailGamilEnterprise\emailGamilEnterprise\obj\Debug\emailGamilEnterprise.pdb
